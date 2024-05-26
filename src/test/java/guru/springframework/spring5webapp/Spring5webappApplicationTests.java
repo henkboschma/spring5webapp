@@ -11,6 +11,8 @@ public class Spring5webappApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+		String test = "blaat";
 	}
 
 }
